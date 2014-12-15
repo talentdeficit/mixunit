@@ -1,7 +1,7 @@
 defmodule Mix.Tasks.Eunit do
   use Mix.Task
 
-  @shortdoc "runs eunit tests"
+  @shortdoc "Run a project's eunit tests"
 
   def run(args) do
     {opts, _, _} = OptionParser.parse(args,
