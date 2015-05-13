@@ -4,7 +4,7 @@ use Mix.Project
   def project do
     [
       app: :mixunit,
-      version: "0.9.1",
+      version: "0.9.2",
       description: "an eunit task for mix",
       package: package
     ]

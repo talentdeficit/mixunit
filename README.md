@@ -1,4 +1,4 @@
-# mixunit v0.9.1 #
+# mixunit v0.9.2 #
 
 an `eunit` task for [mix][mix]
 
